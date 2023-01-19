@@ -1,6 +1,6 @@
 # Omega-Echo
 A Novel Framework for Self Reflection and Episodic Memory using Multi-Modal Models
-# Abstract:
+## Abstract:
 Self reflection and episodic memory are important aspects of human cognition that have been widely studied in the field of psychology and neuroscience. However, current approaches to modeling these processes are limited by their reliance on uni-modal data and lack of integration with other cognitive processes. In this paper, we propose a novel framework for self reflection and episodic memory using multi-modal models. Our approach utilizes a combination of text, audio, and visual data to create a more comprehensive representation of an individual's self reflection and episodic memory. We demonstrate the effectiveness of our framework through a series of experiments on a dataset of self-reflection journal entries and associated audio recordings. Our results show that our multi-modal approach significantly outperforms uni-modal models in terms of both accuracy and interpretability.
 
 ## Introduction:
@@ -14,3 +14,6 @@ To evaluate the effectiveness of our framework, we conducted a series of experim
 
 ##### Conclusion:
 In this paper, we proposed a novel framework for self reflection and episodic memory using multi-modal models. Our approach utilizes a combination of text, audio, and visual data to create a more comprehensive representation of an individual's self reflection and episodic memory. Through a series of experiments, we demonstrated the effectiveness of our framework and showed that it significantly outperforms uni-modal models in terms of both accuracy and interpretability. Our work suggests that multi-modal models have the potential to greatly enhance our understanding of self reflection and episodic memory.
+
+## Code
+Coming soon
